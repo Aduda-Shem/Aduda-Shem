@@ -14,7 +14,3 @@
 - 💬 Ask me about ...
 - 📫 How to reach me: https://www.linkedin.com/in/shem-aduda/
 - ⚡ Fun fact: ...
-
-- 🧑‍💻 Tech I work on :
-
-
