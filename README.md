@@ -11,6 +11,5 @@
 
 - 🔭 I’m currently working on Android Projects(Java & Kotlin), penetration testing and python scripting
 - 🌱 I’m currently learning Dynamic/Static application security testing - DAST/SAST
-- 💬 Ask me about ...
 - 📫 How to reach me: https://www.linkedin.com/in/shem-aduda/
 - ⚡ Fun fact: ...
