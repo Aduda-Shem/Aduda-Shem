@@ -9,7 +9,7 @@ IT Professional with strong interest in Mobile Application development(Kotlin), 
 Hard-working, technical-minded and ready to learn/Implement.
 </p>
 
-- 🔭 I’m currently working on Android Projects(Java & Kotlin), penetration testing and python scripting
-- 🌱 I’m currently learning Dynamic/Static application security testing - DAST/SAST
+- 🔭 I’m currently working on Android Projects(Kotlin), penetration testing and python scripting
+- 🌱 I’m currently learning Cloud Security
 - 📫 How to reach me: https://www.linkedin.com/in/shem-aduda/
 - ⚡ Fun fact: ...
