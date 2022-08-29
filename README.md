@@ -10,7 +10,5 @@ I am a computer programmer at heart with a cybersecurity background and I enjoy 
 Hard-working, technical-minded and ready to learn/Implement.
 </p>
 
-- 🔭 I’m currently working on Android Projects(Kotlin), penetration testing and python scripting
-- 🌱 I’m currently learning Cloud Security
 - 📫 How to reach me: https://www.linkedin.com/in/shem-aduda/
 - ⚡ Fun fact: Spend the day working on code, and spend the night playing with it.
