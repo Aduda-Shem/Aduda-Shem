@@ -6,6 +6,7 @@
 <p>  
 I am a computer programmer at heart with a cybersecurity background and I enjoy using my skills to craft functional code that solves problems and protect people.
 —
+  
 Hard-working, technical-minded and ready to learn/Implement.
 </p>
 
