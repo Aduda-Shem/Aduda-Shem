@@ -11,4 +11,5 @@ Hard-working, technical-minded and ready to learn/Implement.
 </p>
 
 - 📫 How to reach me: https://www.linkedin.com/in/shem-aduda/
+- blog: https://medium.com/@shemaduda001
 - ⚡ Fun fact: Spend the day working on code, and spend the night playing with it.
