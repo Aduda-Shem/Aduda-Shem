@@ -4,7 +4,7 @@
 
 ## WHOAMI 
 <p>  
-I am a computer programmer at heart with a cybersecurity background and I enjoy using my skills to craft functional code that solves problems.
+I am a computer programmer at heart with a cybersecurity background and I enjoy using my skills to craft functional code that solves problems and make work easier.
 —
   
 Hard-working, technical-minded and ready to learn/Implement.
