@@ -12,5 +12,5 @@ When I'm not coding, you can find me tinkering with new technologies or staying 
 
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/shem-aduda/)
 - Blog: [Blog](https://aduda-shem.github.io/)
-- Portfolio: [Portfolio]https://dev-portfolio-wine.vercel.app/
+- Portfolio: [Portfolio](https://dev-portfolio-wine.vercel.app/)
 - ⚡ Fun fact: Spend the day working on code, and spend the night playing with it.
