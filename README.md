@@ -3,7 +3,7 @@
 
 ## WHOAMI 
 <p>  
-   I’m a Cybersec enthusiast, Software Developer and a Lover of Python
+   I’m a Cybersec enthusiast, Software Developer and a Python Lover
   
 When I'm not coding, you can find me tinkering with new technologies or staying up late to play with my latest projects. I'm always looking for new challenges and opportunities to learn
 —
