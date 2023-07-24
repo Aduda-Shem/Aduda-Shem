@@ -18,7 +18,6 @@ Let's connect and explore possibilities together:
 - 💼 Portfolio: [Check out my Portfolio](https://dev-portfolio-wine.vercel.app/)
 - ⚡ Fun Fact: I'm so passionate about coding that I spend the day working on code and even my nights are devoted to playing with it!
 
-![Shem Aduda's GitHub Stats](https://github-readme-stats.vercel.app/api?username=aduda-shem&show_icons=true&count_private=true&hide=prs,issues&theme=radical)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=aduda-shem&layout=compact&theme=radical)
 
@@ -27,10 +26,6 @@ Let's connect and explore possibilities together:
 ## Fun GIF
 <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="30" /> 
 
-## Featured Repositories
-1. [Cybersec Tools](https://github.com/aduda-shem/cybersec-tools) - A collection of cybersecurity tools written in Python.
-2. [Awesome Python Projects](https://github.com/aduda-shem/awesome-python-projects) - A curated list of amazing Python projects from the community.
-3. [SecureApp](https://github.com/aduda-shem/secureapp) - A secure web application with authentication and authorization features.
 
 ![Wakatime Weekly Stats](https://github-readme-stats.vercel.app/api/wakatime?username=aduda-shem&layout=compact&theme=radical)
 
