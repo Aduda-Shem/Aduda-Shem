@@ -22,7 +22,7 @@ Let's connect and explore possibilities together:
 ## Top Languages
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=aduda-shem&layout=compact&theme=radical&langs_count=15)
 
-## Top Languages
+## Languages
 
 ![Python](https://img.shields.io/badge/-Python-blue)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow)
