@@ -11,10 +11,6 @@ Here's what you can expect from me:
 - 💡 Innovation at Its Best: My projects reflect my creativity and dedication to finding innovative solutions.
 - 🚀 Continuous Learning: I thrive on learning and keep myself updated with the latest trends and technologies.
 
-As a developer, I believe in the power of collaboration and enjoy working with teams to deliver exceptional results. I'm excited to be part of impactful projects that make a difference.
-
-Feel free to explore my repositories, where you'll find a diverse range of coding projects that showcase my abilities.
-
 Let's connect and explore possibilities together:
 
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/shem-aduda/)
@@ -22,4 +18,20 @@ Let's connect and explore possibilities together:
 - 💼 Portfolio: [Check out my Portfolio](https://dev-portfolio-wine.vercel.app/)
 - ⚡ Fun Fact: I'm so passionate about coding that I spend the day working on code and even my nights are devoted to playing with it!
 
-Thank you for visiting my profile. I look forward to connecting.
+![Shem Aduda's GitHub Stats](https://github-readme-stats.vercel.app/api?username=aduda-shem&show_icons=true&count_private=true&hide=prs,issues&theme=radical)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=aduda-shem&layout=compact&theme=radical)
+
+![Shem Aduda's GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=aduda-shem&theme=github)
+
+## Fun GIF
+<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="30" /> 
+
+## Featured Repositories
+1. [Cybersec Tools](https://github.com/aduda-shem/cybersec-tools) - A collection of cybersecurity tools written in Python.
+2. [Awesome Python Projects](https://github.com/aduda-shem/awesome-python-projects) - A curated list of amazing Python projects from the community.
+3. [SecureApp](https://github.com/aduda-shem/secureapp) - A secure web application with authentication and authorization features.
+
+![Wakatime Weekly Stats](https://github-readme-stats.vercel.app/api/wakatime?username=aduda-shem&layout=compact&theme=radical)
+
+Keep up the fantastic work! Your GitHub profile showcases your passion for technology and learning. I wish you all the best in your future projects and endeavors. Feel free to reach out if you have any questions or need any assistance. Happy coding! 🚀
