@@ -20,4 +20,4 @@ Let's connect and explore possibilities together:
 
 
 ## Top Languages
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=aduda-shem&layout=compact&theme=radical&langs_count=10)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=aduda-shem&layout=compact&theme=radical&langs_count=15)
