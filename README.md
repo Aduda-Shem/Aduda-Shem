@@ -1,7 +1,7 @@
 # Hi there! <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="30" />
 
 ## WHOAMI 
-Welcome to my GitHub profile! I'm Shem Aduda – a passionate Cybersecurity enthusiast, Software Developer, and dedicated Python Lover.
+I'm Shem Aduda – a passionate Cybersecurity enthusiast, Software Developer, and dedicated Python Lover.
 
 When I'm not immersed in coding, you'll find me joyfully tinkering with new technologies and staying up late to bring my latest projects to life. I'm driven by a thirst for knowledge and always seeking new challenges to grow and improve.
 
@@ -20,5 +20,3 @@ Let's connect and explore possibilities together:
 
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=aduda-shem&layout=compact&theme=radical)
-
-![Shem Aduda's GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=aduda-shem&theme=github)
