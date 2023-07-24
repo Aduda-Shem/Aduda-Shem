@@ -6,9 +6,9 @@ When I'm not immersed in coding, you'll find me joyfully tinkering with new tech
 
 Here's what you can expect from me:
 
-🌟 A Versatile Skill Set: I have expertise in Cybersecurity, Software Development, and a strong command of Python.
-💡 Innovation at Its Best: My projects reflect my creativity and dedication to finding innovative solutions.
-🚀 Continuous Learning: I thrive on learning and keep myself updated with the latest trends and technologies.
+🌟 A Versatile Skill Set: I have expertise in Cybersecurity, Software Development, and a strong command of Python./n
+💡 Innovation at Its Best: My projects reflect my creativity and dedication to finding innovative solutions./n
+🚀 Continuous Learning: I thrive on learning and keep myself updated with the latest trends and technologies./n
 As a developer, I believe in the power of collaboration and enjoy working with teams to deliver exceptional results. I'm excited to be part of impactful projects that make a difference.
 
 Feel free to explore my repositories, where you'll find a diverse range of coding projects that showcase my abilities.
