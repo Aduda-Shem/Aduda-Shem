@@ -22,5 +22,3 @@ Let's connect and explore possibilities together:
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=aduda-shem&layout=compact&theme=radical)
 
 ![Shem Aduda's GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=aduda-shem&theme=github)
-
-![Wakatime Weekly Stats](https://github-readme-stats.vercel.app/api/wakatime?username=aduda-shem&layout=compact&theme=radical)
