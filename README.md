@@ -23,10 +23,4 @@ Let's connect and explore possibilities together:
 
 ![Shem Aduda's GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=aduda-shem&theme=github)
 
-## Fun GIF
-<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="30" /> 
-
-
 ![Wakatime Weekly Stats](https://github-readme-stats.vercel.app/api/wakatime?username=aduda-shem&layout=compact&theme=radical)
-
-Keep up the fantastic work! Your GitHub profile showcases your passion for technology and learning. I wish you all the best in your future projects and endeavors. Feel free to reach out if you have any questions or need any assistance. Happy coding! 🚀
