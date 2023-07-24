@@ -19,4 +19,5 @@ Let's connect and explore possibilities together:
 - ⚡ Fun Fact: I'm so passionate about coding that I spend the day working on code and even my nights are devoted to playing with it!
 
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=aduda-shem&layout=compact&theme=radical)
+## Top Languages
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=aduda-shem&layout=compact&theme=radical&langs_count=10)
