@@ -3,8 +3,6 @@
 ## WHOAMI 
 I'm Shem Aduda – a passionate Cybersecurity enthusiast, Software Developer, and dedicated Python Lover.
 
-When I'm not immersed in coding, you'll find me joyfully tinkering with new technologies and staying up late to bring my latest projects to life. I'm driven by a thirst for knowledge and always seeking new challenges to grow and improve.
-
 Here's what you can expect from me:
 
 - 🌟 A Versatile Skill Set: I have expertise in Cybersecurity, Software Development, and a strong command of Python.
@@ -18,10 +16,6 @@ Let's connect and explore possibilities together:
 - 💼 Portfolio: [Check out my Portfolio](https://dev-portfolio-wine.vercel.app/)
 - ⚡ Fun Fact: I'm so passionate about coding that I spend the day working on code and even my nights are devoted to playing with it!
 
-
-## Top Languages
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=aduda-shem&layout=compact&theme=radical&langs_count=15)
-
 ## Languages
 
 ![Python](https://img.shields.io/badge/-Python-blue)
@@ -29,3 +23,5 @@ Let's connect and explore possibilities together:
 ![Java](https://img.shields.io/badge/-Java-orange)
 ![HTML](https://img.shields.io/badge/-HTML-red)
 ![CSS](https://img.shields.io/badge/-CSS-purple)
+![Tailwind](https://img.shields.io/badge/-tailwind-blue)
+
