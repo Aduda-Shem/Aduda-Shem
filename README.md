@@ -24,4 +24,5 @@ Let's connect and explore possibilities together:
 ![HTML](https://img.shields.io/badge/-HTML-red)
 ![CSS](https://img.shields.io/badge/-CSS-purple)
 ![Tailwind](https://img.shields.io/badge/-tailwind-blue)
+![React](https://img.shields.io/badge/-react-blue)
 
