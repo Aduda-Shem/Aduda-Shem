@@ -22,7 +22,7 @@ Let's connect and explore possibilities together:
 ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow)
 ![Java](https://img.shields.io/badge/-Java-orange)
 ![HTML](https://img.shields.io/badge/-HTML-red)
-![CSS](https://img.shields.io/badge/-CSS-purple)
 ![Tailwind](https://img.shields.io/badge/-tailwind-blue)
+![CSS](https://img.shields.io/badge/-CSS-purple)
 ![React](https://img.shields.io/badge/-react-blue)
 
