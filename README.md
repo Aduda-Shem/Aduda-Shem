@@ -1,7 +1,7 @@
 # Hi there! <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="30" />
 
 ## WHOAMI 
-I'm Shem Aduda – a passionate Cybersecurity enthusiast, Software Developer, and dedicated Python Lover.
+I'm Shem Aduda – a Software Developer, and dedicated Python Lover.
 
 Here's what you can expect from me:
 
