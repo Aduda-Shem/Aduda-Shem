@@ -26,3 +26,8 @@ Let's connect and explore possibilities together:
 ![CSS](https://img.shields.io/badge/-CSS-purple)
 ![React](https://img.shields.io/badge/-React-blue)
 ![jQuery](https://img.shields.io/badge/-jQuery-maroon)
+
+## 📊 GitHub Stats
+
+[![GitHub stats](https://github-readme-stats.vercel.app/api?username=Aduda-Shem&show_icons=true&theme=radical)](https://github.com/Aduda-Shem)
+
