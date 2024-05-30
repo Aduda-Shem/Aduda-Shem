@@ -12,7 +12,7 @@ I'm Shem Aduda – a Software Engineer dedicated to building secure, scalable, a
 - 📫 **Reach me on [LinkedIn](https://www.linkedin.com/in/shem-aduda/)**
 - 🌐 **Read my [Tech Blog](https://aduda-shem.github.io/)**
 - 💼 **Check out my [Portfolio](https://dev-portfolio-wine.vercel.app/)**
-- ⚡ **Fun Fact:** I'm so passionate about coding that I spend my days working on code and even my nights are devoted to playing with it!
+- ⚡ **Fun Fact:** I have no special talents. I am only passionately curious... and addicted to caffeine and code!!
 
 ## Languages & Technologies
 
