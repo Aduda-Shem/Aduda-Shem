@@ -4,7 +4,7 @@
 I'm Shem Aduda – a Software Engineer dedicated to building secure, scalable, and user-friendly applications.
 
 ### About Me
-- 🌟 **Versatile Skill Set:** Expertise in Cybersecurity, Software Development, and a strong command of Python, Django, ReactJS, NodeJS, and Go.
+- 🌟 **Versatile Skill Set:** Expertise in Software Development, and a strong command of Python, Django, ReactJS, NodeJS, and Go.
 - 💡 **Innovation at Its Best:** My projects reflect creativity and dedication to finding innovative solutions.
 - 🚀 **Continuous Learning:** I thrive on learning and stay updated with the latest trends and technologies.
 
