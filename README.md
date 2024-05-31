@@ -12,7 +12,6 @@ I'm Shem Aduda – a Software Engineer dedicated to building secure, scalable, a
 - 📫 **Reach me on [LinkedIn](https://www.linkedin.com/in/shem-aduda/)**
 - 🌐 **Read my [Tech Blog](https://aduda-shem.github.io/)**
 - 💼 **Check out my [Portfolio](https://dev-portfolio-wine.vercel.app/)**
-- ⚡ **Fun Fact:** I have no special talents. I am only passionately curious... and addicted to caffeine and code!!
 
 ## Languages & Technologies
 
@@ -33,11 +32,6 @@ I'm Shem Aduda – a Software Engineer dedicated to building secure, scalable, a
 - **Security Research:** Penetration Testing, Vulnerability Analysis, Microsoft Azure
 - **Other Skills:** API Design, Threat Modeling, Problem Solving, Teamwork, Creativity
 
-## Certifications
-- **IBM Cybersecurity Analyst Specialization**
-- **Certificate in Cloud and Network Security (USIU)**
-- **Microsoft Certified: Azure Security Engineer Associate**
-- **Certificate of Cloud Security Knowledge V4.1 (Cisco Networking Academy)**
 
 ## Interests
 - Open-source Contributions
