@@ -1,6 +1,5 @@
 # Hi there! <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="30" />
 
-## WHOAMI 
 I'm Shem Aduda – a Software Engineer dedicated to building secure, scalable, and user-friendly applications.
 
 ### About Me
@@ -30,7 +29,6 @@ I'm Shem Aduda – a Software Engineer dedicated to building secure, scalable, a
 - **Programming Languages:** Python (Django), JavaScript (ReactJS, NodeJS), Go (Gin), jQuery
 - **Virtualization:** Docker, VirtualBox
 - **Security Research:** Penetration Testing, Vulnerability Analysis, Microsoft Azure
-- **Other Skills:** API Design, Threat Modeling, Problem Solving, Teamwork, Creativity
 
 
 ## Interests
