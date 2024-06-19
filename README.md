@@ -1,5 +1,4 @@
 # Hi there! <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="30" />
-
 I'm Shem Aduda – a Software Engineer dedicated to building secure, scalable, and user-friendly applications.
 
 ### About Me
@@ -13,26 +12,27 @@ I'm Shem Aduda – a Software Engineer dedicated to building secure, scalable, a
 - 💼 **Check out my [Portfolio](https://dev-portfolio-wine.vercel.app/)**
 
 ## Languages & Technologies
-
-![Python](https://img.shields.io/badge/-Python-blue)
-![JavaScript](https://img.shields.io/badge/-JavaScript-yellow)
-![Java](https://img.shields.io/badge/-Java-orange)
-![HTML](https://img.shields.io/badge/-HTML-red)
-![Tailwind](https://img.shields.io/badge/-Tailwind-blue)
-![CSS](https://img.shields.io/badge/-CSS-purple)
-![React](https://img.shields.io/badge/-React-blue)
-![jQuery](https://img.shields.io/badge/-jQuery-maroon)
-![Django](https://img.shields.io/badge/-Django-green)
-![Go](https://img.shields.io/badge/-Go-lightblue)
+![Python](https://img.shields.io/badge/-Python-blue?style=flat-square&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/-JavaScript-yellow?style=flat-square&logo=javascript&logoColor=white)
+![Java](https://img.shields.io/badge/-Java-orange?style=flat-square&logo=java&logoColor=white)
+![HTML](https://img.shields.io/badge/-HTML-red?style=flat-square&logo=html5&logoColor=white)
+![Tailwind](https://img.shields.io/badge/-Tailwind-blue?style=flat-square&logo=tailwindcss&logoColor=white)
+![CSS](https://img.shields.io/badge/-CSS-purple?style=flat-square&logo=css3&logoColor=white)
+![React](https://img.shields.io/badge/-React-blue?style=flat-square&logo=react&logoColor=white)
+![Django](https://img.shields.io/badge/-Django-green?style=flat-square&logo=django&logoColor=white)
+![Go](https://img.shields.io/badge/-Go-lightblue?style=flat-square&logo=go&logoColor=white)
 
 ## Skills
-- **Programming Languages:** Python (Django), JavaScript (ReactJS, NodeJS), Go (Gin), jQuery
+- **Programming Languages:** Python (Django), JavaScript (ReactJS, NodeJS), Go (Gin)
 - **Virtualization:** Docker, VirtualBox
 - **Security Research:** Penetration Testing, Vulnerability Analysis, Microsoft Azure
-
 
 ## Interests
 - Open-source Contributions
 - Ongoing Learning in Emerging Technologies
+
+## GitHub Stats
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=aduda-shem&layout=compact)](https://github.com/aduda-shem/github-readme-stats)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=aduda-shem&show_icons=true&theme=radical)
 
 Feel free to reach out if you want to collaborate or just want to say hi! 😊
