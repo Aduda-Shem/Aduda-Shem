@@ -25,14 +25,9 @@ I'm Shem Aduda – a Software Engineer dedicated to building secure, scalable, a
 ## Skills
 - **Programming Languages:** Python (Django), JavaScript (ReactJS, NodeJS), Go (Gin)
 - **Virtualization:** Docker, VirtualBox
-- **Security Research:** Penetration Testing, Vulnerability Analysis, Microsoft Azure
 
 ## Interests
 - Open-source Contributions
 - Ongoing Learning in Emerging Technologies
-
-## GitHub Stats
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=aduda-shem&layout=compact)](https://github.com/aduda-shem/github-readme-stats)
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=aduda-shem&show_icons=true&theme=radical)
 
 Feel free to reach out if you want to collaborate or just want to say hi! 😊
