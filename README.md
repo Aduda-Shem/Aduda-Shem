@@ -9,7 +9,6 @@ I'm Shem Aduda – a Software Engineer dedicated to building secure, scalable, a
 ### Let's Connect
 - 📫 **Reach me on [LinkedIn](https://www.linkedin.com/in/shem-aduda/)**
 - 🌐 **Read my [Tech Blog](https://aduda-shem.github.io/)**
-- 💼 **Check out my [Portfolio](https://dev-portfolio-wine.vercel.app/)**
 
 ## Languages & Technologies
 ![Python](https://img.shields.io/badge/-Python-blue?style=flat-square&logo=python&logoColor=white)
