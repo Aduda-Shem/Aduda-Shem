@@ -2,7 +2,7 @@
 I'm Shem Aduda – a Software Engineer dedicated to building secure, scalable, and user-friendly applications.
 
 ### About Me
-- 🌟 **Versatile Skill Set:** Expertise in Software Development, and a strong command of Python, Django, ReactJS, NodeJS, and Go.
+- 🌟 **Versatile Skill Set:** Expertise in Software Development, and a strong command of Python, Django, ReactJS, NodeJS.
 - 💡 **Innovation at Its Best:** My projects reflect creativity and dedication to finding innovative solutions.
 - 🚀 **Continuous Learning:** I thrive on learning and stay updated with the latest trends and technologies.
 
@@ -17,10 +17,9 @@ I'm Shem Aduda – a Software Engineer dedicated to building secure, scalable, a
 ![Tailwind](https://img.shields.io/badge/-Tailwind-blue?style=flat-square&logo=tailwindcss&logoColor=white)
 ![React](https://img.shields.io/badge/-React-blue?style=flat-square&logo=react&logoColor=white)
 ![Django](https://img.shields.io/badge/-Django-green?style=flat-square&logo=django&logoColor=white)
-![Go](https://img.shields.io/badge/-Go-lightblue?style=flat-square&logo=go&logoColor=white)
 
 ## Skills
-- **Programming Languages:** Python (Django), JavaScript (ReactJS, NodeJS), Go (Gin)
+- **Programming Languages:** Python (Django), JavaScript (ReactJS, NodeJS)
 - **Virtualization:** Docker, VirtualBox
 
 ## Interests
