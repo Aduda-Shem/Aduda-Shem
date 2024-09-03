@@ -1,10 +1,6 @@
 # Hi there! <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="30" />
 I'm Shem Aduda – a Software Engineer dedicated to building secure, scalable, and user-friendly applications.
 
-### About Me
-- 🌟 **Versatile Skill Set:** Expertise in Software Development, and a strong command of Python, Django, ReactJS.
-- 🚀 **Continuous Learning:** I thrive on learning and staying updated with the latest trends and technologies.
-
 ### Let's Connect
 - 📫 **Reach me on [LinkedIn](https://www.linkedin.com/in/shem-aduda/)**
 - 🌐 **Read my [Tech Blog](https://aduda-shem.github.io/)**
