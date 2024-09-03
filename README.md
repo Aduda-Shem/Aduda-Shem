@@ -12,10 +12,6 @@ I'm Shem Aduda – a Software Engineer dedicated to building secure, scalable, a
 ![React](https://img.shields.io/badge/-React-blue?style=flat-square&logo=react&logoColor=white)
 ![Django](https://img.shields.io/badge/-Django-green?style=flat-square&logo=django&logoColor=white)
 
-## Skills
-- **Programming Languages:** Python (Django), JavaScript (ReactJS)
-- **Virtualization:** Docker, VirtualBox
-
 ## Interests
 - Open-source Contributions
 - Ongoing Learning in Emerging Technologies
