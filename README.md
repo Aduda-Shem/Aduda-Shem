@@ -1,9 +1,18 @@
-# Hi there! <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="30" />
+# Hey There! <img src="https://media.giphy.com/media/3o6fJ9hQ59VVmaW4ck/giphy.gif" width="30" />
 
-### Let's Connect
-- 📫 **Reach me on [LinkedIn](https://www.linkedin.com/in/shem-aduda/)**
-- 🌐 **Read my [Tech Blog](https://aduda-shem.github.io/)**
+Welcome to my GitHub profile! 🎉
 
-## Interests
-- Open-source Contributions
-- Ongoing Learning in Emerging Technologies
+## 🌟 Connect with Me
+- 📫 **[LinkedIn](https://www.linkedin.com/in/shem-aduda/)** – Let’s connect!
+- 🌐 **[Tech Blog](https://aduda-shem.github.io/)** – Check out my latest posts!
+
+## 🚀 Interests
+- **Open-source Contributions** 🌍
+- **Learning New Technologies** 💡
+
+## 🔥 Fun Fact
+???!!!
+
+---
+
+![Cool Animation](https://media.giphy.com/media/3o6fJ9hQ59VVmaW4ck/giphy.gif)
