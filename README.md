@@ -1,4 +1,4 @@
-# 💻 Coding | 🛠️ **Problem Solver** | ☕ **Fueled by Coffee**  
+# 💻 Coding | 🛠️ **Problem Solver**
 
 Turning chaos into clean code, one commit at a time.  
 
