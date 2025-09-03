@@ -1,4 +1,4 @@
-# 💻 Coding | 🛠️ **Problem Solver**
+# 💻 Coding | **From Idea to Impact**
 
 Turning chaos into clean code, one commit at a time.  
 
